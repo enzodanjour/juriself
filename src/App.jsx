@@ -11,7 +11,7 @@ function App() {
       <section className='p-5 header mb-8 text-slate-100'>
         <div className='w-8/12 m-auto my-20 py-20'>
           <h1 className='text-5xl  p-2 mb-3'>JuriSelf: Simplificando o universo jurídico</h1>
-          <h3 className='text-lg text-justify p-2 '>A JuriSelf é uma Lawtech que conecta cidadãos ao universo jurídico de forma fácil e acessível. Empoderamos indivíduos e tornamos a justiça compreensível para todos.</h3>
+          <h3 className='text-2xl text-justify p-2 '>A JuriSelf é uma Lawtech que conecta cidadãos ao universo jurídico de forma fácil e acessível. Empoderamos indivíduos e tornamos a justiça compreensível para todos.</h3>
 
         </div>
       </section>
