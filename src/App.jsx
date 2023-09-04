@@ -8,9 +8,15 @@ function App() {
 
   return (
     <>
+      <header className='bg-zinc-50 py-5'>
+        <div className='w-8/12 flex items-center m-auto'>
+          <div className='logo'></div>
+          <h1 className=' logo-text font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-cyan-600 to-orange-400'>JuriSelf</h1>
+        </div>
+      </header>
       <section className='p-5 header mb-8 text-slate-100'>
         <div className='w-8/12 m-auto my-20 py-20'>
-          <h1 className='text-5xl  p-2 mb-3'>JuriSelf: Simplificando o universo jurídico</h1>
+          <h1 className='text-5xl  p-2 mb-3'>Simplificando o universo jurídico</h1>
           <h3 className='text-2xl text-justify p-2 '>A JuriSelf é uma Lawtech que conecta cidadãos ao universo jurídico de forma fácil e acessível. Empoderamos indivíduos e tornamos a justiça compreensível para todos.</h3>
 
         </div>
